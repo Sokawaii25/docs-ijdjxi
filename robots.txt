@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-bn1fta.shadowdiary.com/sitemap.xml
